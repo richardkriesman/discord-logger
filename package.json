@@ -1,0 +1,7 @@
+{
+  "name": "logger",
+  "version": "0.1.0",
+  "dependencies": {
+    "discord.js": "^9.3.1"
+  }
+}
